@@ -10,4 +10,4 @@ This project uses the famous `tips` dataset included in Seaborn.
 - Histogram with KDE
 - Boxplot (Total Bill by Day)
 - Correlation Heatmap
-   
+    
