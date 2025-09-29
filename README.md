@@ -1,4 +1,4 @@
-# Seaborn Basics 🎨
+ # Seaborn Basics 🎨
 
 A beginner-friendly repository to learn **Seaborn**, a Python data visualization library built on top of Matplotlib.  
 This project uses the famous `tips` dataset included in Seaborn. 
