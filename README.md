@@ -5,7 +5,7 @@ This project uses the famous `tips` dataset included in Seaborn.
  
 ---    
  
-## 📌 Features   
+## 📌 Features    
 - Scatter Plot (Total Bill vs Tip)        
 - Histogram with KDE 
 - Boxplot (Total Bill by Day)
